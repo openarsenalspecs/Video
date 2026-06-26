@@ -39,7 +39,7 @@ An open-source AI production toolkit for rendering, compositing, shot management
 A graph-based framework for modeling timelines, shots, sequences, and narrative relationships throughout the filmmaking process.
 
 - **Atlas Continuum System**  
-[https://roxanneardary.com/atlas-continuum-system/](https://roxanneardary.com/atlas-continuum-system/)
+[https://roxanneardary.com/atlas-continuum-system/](https://roxanneardary.com/atlas-continuum-system/)  
 A hierarchical narrative architecture that maintains continuity, world state, character knowledge, and story consistency across complex cinematic productions.
 
 - **PhysicsMesh Platform**  
