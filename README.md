@@ -1,0 +1,78 @@
+# Open Arsenal Video Specifications
+
+The video specifications define a structured framework for presenting multimedia content as modular, context-aware components designed for modern digital platforms. Each video unit is treated as an adaptable layer that can integrate with broader systems such as content hubs, product pages, or interactive experiences. The focus is on clarity, reusability, and consistent presentation across different environments, ensuring that video content is not just displayed but functionally embedded into user journeys with measurable intent and structure.
+
+These specifications also emphasize flexible governance around branding and attribution. While default usage encourages transparent crediting to the originating framework or creator ecosystem, licensing terms are designed to remain adaptable. Specification branding licenses can be negotiated for projects or organizations that require attribution-free deployment, allowing for commercial, embedded, or white-label usage under customized agreements. This approach balances open interoperability with practical flexibility for production, enterprise, and creator-driven applications.
+
+## Video Specs:
+
+- **BeautifAI**  
+[https://roxanneardary.com/beautifai/](https://roxanneardary.com/beautifai/)  
+This open-source platform leverages AI for personalized beauty recommendations including makeup and hairstyles. It incorporates skin tone analysis and virtual try-on features to support health-conscious consumer choices.  
+
+- **EpisodeMarket**  
+[https://roxanneardary.com/episodemarket/](https://roxanneardary.com/episodemarket/)  
+This atomic media commerce system allows creators to monetize individual episodes of television shows and films. It moves away from traditional subscription bundles toward flexible per-episode purchasing models.  
+
+- **ImageWorks**  
+[https://roxanneardary.com/imageworks/](https://roxanneardary.com/imageworks/)  
+A modular self-hosted platform designed for visual asset management and production workflows. Creative teams benefit from automated processing, analysis, collaboration, and export capabilities for production-ready images.  
+
+- **Meshora**  
+[https://roxanneardary.com/meshora/](https://roxanneardary.com/meshora/)  
+This self-hostable platform integrates communication tools including chat, voice, video, and streaming features. It supports unlimited communities with modular productivity capabilities for teams and groups.  
+
+- **Vaultica**  
+[https://roxanneardary.com/vaultica/](https://roxanneardary.com/vaultica/)  
+A lightweight open-source application focused on photo archiving and personal photobook creation. It provides next-generation tools under the AGPLv3 license for efficient media organization.  
+
+- **AETHER STAGE**  
+[https://roxanneardary.com/aether-stage/](https://roxanneardary.com/aether-stage/)  
+A cinematic scene description language that standardizes AI film, animation, and video generation through structured, production-ready scene specifications.
+
+- **RenderSmith**  
+[https://roxanneardary.com/rendersmith/](https://roxanneardary.com/rendersmith/)  
+An open-source AI production toolkit for rendering, compositing, shot management, and automated video production workflows.
+
+- **Temporal Media Graph**  
+[https://roxanneardary.com/temporal-media-graph/](https://roxanneardary.com/temporal-media-graph/)  
+A graph-based framework for modeling timelines, shots, sequences, and narrative relationships throughout the filmmaking process.
+
+- **Atlas Continuum System**  
+[https://roxanneardary.com/atlas-continuum-system/](https://roxanneardary.com/atlas-continuum-system/)
+A hierarchical narrative architecture that maintains continuity, world state, character knowledge, and story consistency across complex cinematic productions.
+
+- **PhysicsMesh Platform**  
+[https://roxanneardary.com/physicsmesh-platform/](https://roxanneardary.com/physicsmesh-platform/)  
+A physics-based simulation and validation platform that provides reusable physical models, constraint-driven interactions, and consistent behavior across AI-generated animation, visual effects, and virtual production pipelines.
+
+- **Human Intent Governance System**  
+[https://roxanneardary.com/human-intent-governance-standard/](https://roxanneardary.com/human-intent-governance-standard/)  
+A governance framework that captures, enforces, and audits human intent throughout AI-assisted creative workflows to ensure generated content remains aligned with creator objectives and policy requirements.
+
+- **Human Decision Specification**  
+[https://roxanneardary.com/human-decision-specification/](https://roxanneardary.com/human-decision-specification/)  
+A standardized specification for recording human decisions, approvals, constraints, and rationale, enabling transparent, reproducible, and auditable AI-assisted production pipelines.  
+
+---
+
+## License & Notice Requirements
+
+The Open Arseanl Video Specifications are released under the **GNU Affero General Public License v3.0 or later (AGPL-3.0+)**.  
+By contributing to any Open Arsenal project, you agree that your contributions will also be released under this license.
+
+Please note the following:
+
+- All contributions must comply with the **AGPL-3.0+** terms.  
+- Under **Section 7** of the license, all redistributions, forks, and derivative works must preserve attribution to:  
+  **Roxanne Ardary** and **[roxanneardary.com](https://www.roxanneardary.com/)**.
+- Open Arsenal Video Specifications are free to use with attribution. A Specification Branding License can be negotiated upon request.
+- The project's **notice.md** file tracks attribution requirements and contributor acknowledgments.  
+  Any update that adds new contributors or modifies attribution should also update `notice.md`.
+- When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
+- Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
+
+For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
+
+**Open Arsenal Hub**  
+[https://github.com/openarsenalspecs](https://github.com/openarsenalspecs) 
