@@ -49,7 +49,7 @@ A cinematic scene description language that standardizes AI film, animation, and
 [https://roxanneardary.com/rendersmith/](https://roxanneardary.com/rendersmith/)  
 An open-source AI production toolkit for rendering, compositing, shot management, and automated video production workflows.
 
-- **Temporal Media Graph**  
+- [**Temporal Media Graph Module Specification**](https://github.com/openarsenalspecs/Video/blob/cda70431e532adbf02f8328f7ebe200fb0a5b57d/Temporal%20Media%20Graph.md)    
 [https://roxanneardary.com/temporal-media-graph/](https://roxanneardary.com/temporal-media-graph/)  
 A graph-based framework for modeling timelines, shots, sequences, and narrative relationships throughout the filmmaking process.
 
