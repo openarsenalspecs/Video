@@ -37,7 +37,7 @@ A modular self-hosted platform designed for visual asset management and producti
 [https://roxanneardary.com/meshora/](https://roxanneardary.com/meshora/)  
 This self-hostable platform integrates communication tools including chat, voice, video, and streaming features. It supports unlimited communities with modular productivity capabilities for teams and groups.  
 
-- **Vaultica**  
+- [**Vaultica Module Specification**](https://github.com/openarsenalspecs/Video/blob/96b48220b0207c64639a58122361c32205659a7e/Vaultica.md)    
 [https://roxanneardary.com/vaultica/](https://roxanneardary.com/vaultica/)  
 A lightweight open-source application focused on photo archiving and personal photobook creation. It provides next-generation tools under the AGPLv3 license for efficient media organization.  
 
