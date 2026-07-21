@@ -61,7 +61,7 @@ A hierarchical narrative architecture that maintains continuity, world state, ch
 [https://roxanneardary.com/physicsmesh-platform/](https://roxanneardary.com/physicsmesh-platform/)  
 A physics-based simulation and validation platform that provides reusable physical models, constraint-driven interactions, and consistent behavior across AI-generated animation, visual effects, and virtual production pipelines.
 
-- [**Human Intent Governance System Module Specification**]((https://github.com/openarsenalspecs/Video/blob/cadfb0d6d7ee421ebd9ab04edd2b94e3de451ddd/Human%20Intent%20Governance%20Standard.md)    
+- [**Human Intent Governance System Module Specification**](https://github.com/openarsenalspecs/Video/blob/cadfb0d6d7ee421ebd9ab04edd2b94e3de451ddd/Human%20Intent%20Governance%20Standard.md)    
 [https://roxanneardary.com/human-intent-governance-standard/](https://roxanneardary.com/human-intent-governance-standard/)  
 A governance framework that captures, enforces, and audits human intent throughout AI-assisted creative workflows to ensure generated content remains aligned with creator objectives and policy requirements.
 
