@@ -71,6 +71,12 @@ A standardized specification for recording human decisions, approvals, constrain
 
 ---
 
+# Specification Branding License (SBL)
+
+Buy the Basket: [https://roxanneardary.com/video/](https://roxanneardary.com/video/)  
+
+---
+
 ## License & Notice Requirements
 
 The Open Arseanl Video Specifications are released under the **GNU Affero General Public License v3.0 or later (AGPL-3.0+)**.  
