@@ -21,6 +21,14 @@ These specifications also emphasize flexible governance around branding and attr
 
 ## Video Specs:
 
+- **AETHER STAGE**  
+[https://roxanneardary.com/aether-stage/](https://roxanneardary.com/aether-stage/)  
+A cinematic scene description language that standardizes AI film, animation, and video generation through structured, production-ready scene specifications. 
+
+- **Atlas Continuum System**  
+[https://roxanneardary.com/atlas-continuum-system/](https://roxanneardary.com/atlas-continuum-system/)  
+A hierarchical narrative architecture that maintains continuity, world state, character knowledge, and story consistency across complex cinematic productions.  
+
 - **BeautifAI**  
 [https://roxanneardary.com/beautifai/](https://roxanneardary.com/beautifai/)  
 This open-source platform leverages AI for personalized beauty recommendations including makeup and hairstyles. It incorporates skin tone analysis and virtual try-on features to support health-conscious consumer choices.  
@@ -37,13 +45,17 @@ A modular self-hosted platform designed for visual asset management and producti
 [https://roxanneardary.com/meshora/](https://roxanneardary.com/meshora/)  
 This self-hostable platform integrates communication tools including chat, voice, video, and streaming features. It supports unlimited communities with modular productivity capabilities for teams and groups.  
 
-- [**Vaultica Module Specification**](https://github.com/openarsenalspecs/Video/blob/96b48220b0207c64639a58122361c32205659a7e/Vaultica.md)    
-[https://roxanneardary.com/vaultica/](https://roxanneardary.com/vaultica/)  
-A lightweight open-source application focused on photo archiving and personal photobook creation. It provides next-generation tools under the AGPLv3 license for efficient media organization.  
+- [**Human Intent Governance System Module Specification**](https://github.com/openarsenalspecs/Video/blob/cadfb0d6d7ee421ebd9ab04edd2b94e3de451ddd/Human%20Intent%20Governance%20Standard.md)    
+[https://roxanneardary.com/human-intent-governance-standard/](https://roxanneardary.com/human-intent-governance-standard/)  
+A governance framework that captures, enforces, and audits human intent throughout AI-assisted creative workflows to ensure generated content remains aligned with creator objectives and policy requirements.
 
-- **AETHER STAGE**  
-[https://roxanneardary.com/aether-stage/](https://roxanneardary.com/aether-stage/)  
-A cinematic scene description language that standardizes AI film, animation, and video generation through structured, production-ready scene specifications.
+- [**Human Decision Specification Module Specification**](https://github.com/openarsenalspecs/Video/blob/44386484045b163441a5f0558588f723abf883a8/Human%20Decision%20Specification.md)    
+[https://roxanneardary.com/human-decision-specification/](https://roxanneardary.com/human-decision-specification/)  
+A standardized specification for recording human decisions, approvals, constraints, and rationale, enabling transparent, reproducible, and auditable AI-assisted production pipelines.
+
+- **PhysicsMesh Platform**  
+[https://roxanneardary.com/physicsmesh-platform/](https://roxanneardary.com/physicsmesh-platform/)  
+A physics-based simulation and validation platform that provides reusable physical models, constraint-driven interactions, and consistent behavior across AI-generated animation, visual effects, and virtual production pipelines.
 
 - **RenderSmith**  
 [https://roxanneardary.com/rendersmith/](https://roxanneardary.com/rendersmith/)  
@@ -53,21 +65,9 @@ An open-source AI production toolkit for rendering, compositing, shot management
 [https://roxanneardary.com/temporal-media-graph/](https://roxanneardary.com/temporal-media-graph/)  
 A graph-based framework for modeling timelines, shots, sequences, and narrative relationships throughout the filmmaking process.
 
-- **Atlas Continuum System**  
-[https://roxanneardary.com/atlas-continuum-system/](https://roxanneardary.com/atlas-continuum-system/)  
-A hierarchical narrative architecture that maintains continuity, world state, character knowledge, and story consistency across complex cinematic productions.
-
-- **PhysicsMesh Platform**  
-[https://roxanneardary.com/physicsmesh-platform/](https://roxanneardary.com/physicsmesh-platform/)  
-A physics-based simulation and validation platform that provides reusable physical models, constraint-driven interactions, and consistent behavior across AI-generated animation, visual effects, and virtual production pipelines.
-
-- [**Human Intent Governance System Module Specification**](https://github.com/openarsenalspecs/Video/blob/cadfb0d6d7ee421ebd9ab04edd2b94e3de451ddd/Human%20Intent%20Governance%20Standard.md)    
-[https://roxanneardary.com/human-intent-governance-standard/](https://roxanneardary.com/human-intent-governance-standard/)  
-A governance framework that captures, enforces, and audits human intent throughout AI-assisted creative workflows to ensure generated content remains aligned with creator objectives and policy requirements.
-
-- **Human Decision Specification**  
-[https://roxanneardary.com/human-decision-specification/](https://roxanneardary.com/human-decision-specification/)  
-A standardized specification for recording human decisions, approvals, constraints, and rationale, enabling transparent, reproducible, and auditable AI-assisted production pipelines.  
+- [**Vaultica Module Specification**](https://github.com/openarsenalspecs/Video/blob/96b48220b0207c64639a58122361c32205659a7e/Vaultica.md)    
+[https://roxanneardary.com/vaultica/](https://roxanneardary.com/vaultica/)  
+A lightweight open-source application focused on photo archiving and personal photobook creation. It provides next-generation tools under the AGPLv3 license for efficient media organization.   
 
 ---
 
