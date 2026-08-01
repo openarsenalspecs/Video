@@ -53,7 +53,7 @@ A governance framework that captures, enforces, and audits human intent througho
 [https://roxanneardary.com/human-decision-specification/](https://roxanneardary.com/human-decision-specification/)  
 A standardized specification for recording human decisions, approvals, constraints, and rationale, enabling transparent, reproducible, and auditable AI-assisted production pipelines.
 
-- **PhysicsMesh Platform**  
+- [**PhysicsMesh Platform Module Specification**](https://github.com/openarsenalspecs/Video/blob/46a2abe6af5fe0a44ea7ad691c5e2632e2ab036d/PhysicsMesh%20Platform.md)    
 [https://roxanneardary.com/physicsmesh-platform/](https://roxanneardary.com/physicsmesh-platform/)  
 A physics-based simulation and validation platform that provides reusable physical models, constraint-driven interactions, and consistent behavior across AI-generated animation, visual effects, and virtual production pipelines.
 
