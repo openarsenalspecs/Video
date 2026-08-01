@@ -29,7 +29,7 @@ A cinematic scene description language that standardizes AI film, animation, and
 [https://roxanneardary.com/atlas-continuum-system/](https://roxanneardary.com/atlas-continuum-system/)  
 A hierarchical narrative architecture that maintains continuity, world state, character knowledge, and story consistency across complex cinematic productions.  
 
-- **BeautifAI**  
+- [**BeautifAI Module Specification**](https://github.com/openarsenalspecs/Video/blob/2b30d99cf9cc809144b044137acbf08bebadc68e/BeautifAI.md)    
 [https://roxanneardary.com/beautifai/](https://roxanneardary.com/beautifai/)  
 This open-source platform leverages AI for personalized beauty recommendations including makeup and hairstyles. It incorporates skin tone analysis and virtual try-on features to support health-conscious consumer choices.  
 
