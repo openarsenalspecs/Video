@@ -57,7 +57,7 @@ A standardized specification for recording human decisions, approvals, constrain
 [https://roxanneardary.com/physicsmesh-platform/](https://roxanneardary.com/physicsmesh-platform/)  
 A physics-based simulation and validation platform that provides reusable physical models, constraint-driven interactions, and consistent behavior across AI-generated animation, visual effects, and virtual production pipelines.
 
-- **RenderSmith**  
+- [**RenderSmith Module Specification**](https://github.com/openarsenalspecs/Video/blob/2a36a43176757e7348081ebfdbbe864f28873a22/RenderSmith.md)    
 [https://roxanneardary.com/rendersmith/](https://roxanneardary.com/rendersmith/)  
 An open-source AI production toolkit for rendering, compositing, shot management, and automated video production workflows.
 
