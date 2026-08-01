@@ -41,7 +41,7 @@ This atomic media commerce system allows creators to monetize individual episode
 [https://roxanneardary.com/imageworks/](https://roxanneardary.com/imageworks/)  
 A modular self-hosted platform designed for visual asset management and production workflows. Creative teams benefit from automated processing, analysis, collaboration, and export capabilities for production-ready images.  
 
-- **Meshora**  
+- [**Meshora Module Specification**](https://github.com/openarsenalspecs/Video/blob/ec5835f45b6070c07db591ed9be2a917e3cbd735/Meshora.md)    
 [https://roxanneardary.com/meshora/](https://roxanneardary.com/meshora/)  
 This self-hostable platform integrates communication tools including chat, voice, video, and streaming features. It supports unlimited communities with modular productivity capabilities for teams and groups.  
 
