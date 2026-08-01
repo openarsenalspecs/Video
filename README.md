@@ -21,7 +21,7 @@ These specifications also emphasize flexible governance around branding and attr
 
 ## Video Specs:
 
-- **AETHER STAGE**  
+- [**AETHER STAGE Module Specification**](https://github.com/openarsenalspecs/Video/blob/0caa50bf9ecb1b9eb5975d85c198deb6fe7e1979/AETHER%20STAGE.md)    
 [https://roxanneardary.com/aether-stage/](https://roxanneardary.com/aether-stage/)  
 A cinematic scene description language that standardizes AI film, animation, and video generation through structured, production-ready scene specifications. 
 
