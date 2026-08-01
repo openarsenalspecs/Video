@@ -25,7 +25,7 @@ These specifications also emphasize flexible governance around branding and attr
 [https://roxanneardary.com/aether-stage/](https://roxanneardary.com/aether-stage/)  
 A cinematic scene description language that standardizes AI film, animation, and video generation through structured, production-ready scene specifications. 
 
-- **Atlas Continuum System**  
+- [**Atlas Continuum System Module Specification**](https://github.com/openarsenalspecs/Video/blob/c722800195f7a0aea8486a9e60268195d994383d/Atlas%20Continuum%20System.md)    
 [https://roxanneardary.com/atlas-continuum-system/](https://roxanneardary.com/atlas-continuum-system/)  
 A hierarchical narrative architecture that maintains continuity, world state, character knowledge, and story consistency across complex cinematic productions.  
 
