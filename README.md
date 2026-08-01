@@ -33,7 +33,7 @@ A hierarchical narrative architecture that maintains continuity, world state, ch
 [https://roxanneardary.com/beautifai/](https://roxanneardary.com/beautifai/)  
 This open-source platform leverages AI for personalized beauty recommendations including makeup and hairstyles. It incorporates skin tone analysis and virtual try-on features to support health-conscious consumer choices.  
 
-- **EpisodeMarket**  
+- [**EpisodeMarket Module Specification**](https://github.com/openarsenalspecs/Video/blob/1c68295b4ea063e8c6d746bc70e12e0824720d9f/EpisodeMarket.md)    
 [https://roxanneardary.com/episodemarket/](https://roxanneardary.com/episodemarket/)  
 This atomic media commerce system allows creators to monetize individual episodes of television shows and films. It moves away from traditional subscription bundles toward flexible per-episode purchasing models.  
 
