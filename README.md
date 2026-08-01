@@ -37,7 +37,7 @@ This open-source platform leverages AI for personalized beauty recommendations i
 [https://roxanneardary.com/episodemarket/](https://roxanneardary.com/episodemarket/)  
 This atomic media commerce system allows creators to monetize individual episodes of television shows and films. It moves away from traditional subscription bundles toward flexible per-episode purchasing models.  
 
-- **ImageWorks**  
+- [**ImageWorks Module Specification**](https://github.com/openarsenalspecs/Video/blob/950ff1fae1fd5a8960d4145dccc0b54571ab2506/ImageWorks.md)    
 [https://roxanneardary.com/imageworks/](https://roxanneardary.com/imageworks/)  
 A modular self-hosted platform designed for visual asset management and production workflows. Creative teams benefit from automated processing, analysis, collaboration, and export capabilities for production-ready images.  
 
