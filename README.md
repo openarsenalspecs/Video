@@ -65,7 +65,7 @@ An open-source AI production toolkit for rendering, compositing, shot management
 [https://roxanneardary.com/temporal-media-graph/](https://roxanneardary.com/temporal-media-graph/)  
 A graph-based framework for modeling timelines, shots, sequences, and narrative relationships throughout the filmmaking process.
 
-- [**Vaultica Module Specification**](https://github.com/openarsenalspecs/Video/blob/96b48220b0207c64639a58122361c32205659a7e/Vaultica.md)    
+- [**Vaultica Module Specification**](https://github.com/openarsenalspecs/Video/blob/7dd801aef2cb5cf65707506eed1f9e8c4054b9f0/Vaultica.md)  
 [https://roxanneardary.com/vaultica/](https://roxanneardary.com/vaultica/)  
 A lightweight open-source application focused on photo archiving and personal photobook creation. It provides next-generation tools under the AGPLv3 license for efficient media organization.   
 
