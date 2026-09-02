@@ -39,7 +39,11 @@ This atomic media commerce system allows creators to monetize individual episode
 
 - [**ImageWorks Module Specification**](https://github.com/openarsenalspecs/Video/blob/950ff1fae1fd5a8960d4145dccc0b54571ab2506/ImageWorks.md)    
 [https://roxanneardary.com/imageworks/](https://roxanneardary.com/imageworks/)  
-A modular self-hosted platform designed for visual asset management and production workflows. Creative teams benefit from automated processing, analysis, collaboration, and export capabilities for production-ready images.  
+A modular self-hosted platform designed for visual asset management and production workflows. Creative teams benefit from automated processing, analysis, collaboration, and export capabilities for production-ready images.
+
+- [**LifeCreator Module Specification**](https://github.com/openarsenalspecs/Video/blob/1d8421d340ed592df74428a58f5dceec0d8691a8/LifeCreator.md)  
+[https://roxanneardary.com/lifecreator/](https://roxanneardary.com/lifecreator/)  
+LifeCreator is an AI-powered personal memory and creative platform that transforms everyday experiences into lasting memories, images, videos, stories, and keepsakes. It preserves original memories while enabling users to create, edit, organize, and share multiple creative representations with traceable provenance.  
 
 - [**Meshora Module Specification**](https://github.com/openarsenalspecs/Video/blob/ec5835f45b6070c07db591ed9be2a917e3cbd735/Meshora.md)    
 [https://roxanneardary.com/meshora/](https://roxanneardary.com/meshora/)  
@@ -74,6 +78,8 @@ A lightweight open-source application focused on photo archiving and personal ph
 # Specification Branding License (SBL)
 
 Buy the Basket: [https://roxanneardary.com/video/](https://roxanneardary.com/video/)  
+
+Purchasing a Specification Basket grants the purchaser a perpetual license for attribution-free use of every existing specification included within that category, as well as any additional specifications subsequently added to the category.
 
 ---
 
