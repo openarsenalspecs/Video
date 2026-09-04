@@ -35,7 +35,11 @@ This open-source platform leverages AI for personalized beauty recommendations i
 
 - [**EpisodeMarket Module Specification**](https://github.com/openarsenalspecs/Video/blob/1c68295b4ea063e8c6d746bc70e12e0824720d9f/EpisodeMarket.md)    
 [https://roxanneardary.com/episodemarket/](https://roxanneardary.com/episodemarket/)  
-This atomic media commerce system allows creators to monetize individual episodes of television shows and films. It moves away from traditional subscription bundles toward flexible per-episode purchasing models.  
+This atomic media commerce system allows creators to monetize individual episodes of television shows and films. It moves away from traditional subscription bundles toward flexible per-episode purchasing models.
+
+- [**Human Intent Governance Standard Module Specification**](https://github.com/openarsenalspecs/Video/blob/cadfb0d6d7ee421ebd9ab04edd2b94e3de451ddd/Human%20Intent%20Governance%20Standard.md)    
+[https://roxanneardary.com/human-intent-governance-standard/](https://roxanneardary.com/human-intent-governance-standard/)  
+A governance framework that captures, enforces, and audits human intent throughout AI-assisted creative workflows to ensure generated content remains aligned with creator objectives and policy requirements.
 
 - [**ImageWorks Module Specification**](https://github.com/openarsenalspecs/Video/blob/950ff1fae1fd5a8960d4145dccc0b54571ab2506/ImageWorks.md)    
 [https://roxanneardary.com/imageworks/](https://roxanneardary.com/imageworks/)  
@@ -49,13 +53,9 @@ LifeCreator is an AI-powered personal memory and creative platform that transfor
 [https://roxanneardary.com/meshora/](https://roxanneardary.com/meshora/)  
 This self-hostable platform integrates communication tools including chat, voice, video, and streaming features. It supports unlimited communities with modular productivity capabilities for teams and groups.  
 
-- [**Human Intent Governance System Module Specification**](https://github.com/openarsenalspecs/Video/blob/cadfb0d6d7ee421ebd9ab04edd2b94e3de451ddd/Human%20Intent%20Governance%20Standard.md)    
-[https://roxanneardary.com/human-intent-governance-standard/](https://roxanneardary.com/human-intent-governance-standard/)  
-A governance framework that captures, enforces, and audits human intent throughout AI-assisted creative workflows to ensure generated content remains aligned with creator objectives and policy requirements.
-
-- [**Human Decision Specification Module Specification**](https://github.com/openarsenalspecs/Video/blob/44386484045b163441a5f0558588f723abf883a8/Human%20Decision%20Specification.md)    
-[https://roxanneardary.com/human-decision-specification/](https://roxanneardary.com/human-decision-specification/)  
-A standardized specification for recording human decisions, approvals, constraints, and rationale, enabling transparent, reproducible, and auditable AI-assisted production pipelines.
+- **ObscuraAI**  
+[https://roxanneardary.com/obscuraai/](https://roxanneardary.com/obscuraai/)  
+ObscuraAI is an open source specification for generating and evaluating adversarial visual interference patterns to study machine vision vulnerabilities. It provides a modular framework for testing perception systems, measuring weaknesses, and developing stronger defensive techniques.    
 
 - [**PhysicsMesh Platform Module Specification**](https://github.com/openarsenalspecs/Video/blob/46a2abe6af5fe0a44ea7ad691c5e2632e2ab036d/PhysicsMesh%20Platform.md)    
 [https://roxanneardary.com/physicsmesh-platform/](https://roxanneardary.com/physicsmesh-platform/)  
