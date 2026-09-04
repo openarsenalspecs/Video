@@ -53,7 +53,7 @@ LifeCreator is an AI-powered personal memory and creative platform that transfor
 [https://roxanneardary.com/meshora/](https://roxanneardary.com/meshora/)  
 This self-hostable platform integrates communication tools including chat, voice, video, and streaming features. It supports unlimited communities with modular productivity capabilities for teams and groups.  
 
-- **ObscuraAI**  
+- [**ObscuraAI Module Specification**](https://github.com/openarsenalspecs/Video/blob/fc43ac723e0876778beb15a8ef4cf361b1cf7b4d/ObscuraAI.md)    
 [https://roxanneardary.com/obscuraai/](https://roxanneardary.com/obscuraai/)  
 ObscuraAI is an open source specification for generating and evaluating adversarial visual interference patterns to study machine vision vulnerabilities. It provides a modular framework for testing perception systems, measuring weaknesses, and developing stronger defensive techniques.    
 
